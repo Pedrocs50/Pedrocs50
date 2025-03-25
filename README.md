@@ -15,5 +15,3 @@ I'm passionate about programming and technology. Feel free to connect with me!
 ### 📝 Top Languages:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedrocs50&layout=compact&theme=dark)
-
----
