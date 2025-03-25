@@ -13,16 +13,6 @@
 
 ---
 
-### <p align="center">📊 My GitHub Stats:</p>
-
-<p align="center">
-  <a href="https://git.io/Pedrocs50">
-    <img src="https://streak-stats.demolab.com/?user=Pedrocs50&theme=dark" alt="GitHub Streak">
-  </a>
-</p>
-
----
-
 ### <p align="center">📝 Top Languages:</p>
 
 <p align="center">
