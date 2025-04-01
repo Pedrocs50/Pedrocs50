@@ -18,9 +18,3 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedrocs50&layout=compact&theme=dark" alt="Top Languages">
 </p>
-
-### <p align="center">📝 GitHub Streaks:</p>
-
-<p align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Pedrocs50&theme=dark" alt="GitHub Streak" /></a>
-</p>
