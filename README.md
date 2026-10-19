@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=110&text=Pedro%20de%20Moraes&fontSize=52&fontColor=FFFFFF&fontAlign=50&fontAlignY=50" alt="Pedro de Moraes" />
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=40&text=I%20love%20programming.%20It%20never%20stopped.&fontSize=20&fontColor=FFFFFF&fontAlign=50&fontAlignY=50" alt="I love programming. It never stopped." />
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=40&text=I%20love%20programming.%20It%20never%20stopped.&fontSize=20&fontColor=FFFFFF&fontAlign=50&fontAlignY=50" alt="I love programming." />
 
 </div>
 
