@@ -1,39 +1,35 @@
-# 👋 Hi there, I'm Pedro de Moraes!
+<div align="center">
 
-**Software Development Intern @ Embraer** — focused on Data Science 🇧🇷
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=110&text=Pedro%20de%20Moraes&fontSize=52&fontColor=FFFFFF&fontAlign=50&fontAlignY=50" alt="Pedro de Moraes" />
 
-I'm a Systems Analysis / Computer student at IFSP, based in Jacareí, SP. I'm driven by technology and by solving real problems — that's what got me into programming in the first place, and it hasn't stopped since.
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=40&text=I%20love%20programming.%20It%20never%20stopped.&fontSize=20&fontColor=FFFFFF&fontAlign=50&fontAlignY=50" alt="I love programming. It never stopped." />
 
-Currently, I bridge academia and industry: I study at IFSP and work as a Software Development Intern at Embraer, where I apply Data Science to real, large-scale engineering problems.
-
-- 🌱 I'm currently learning: **Data Science & AI** (models, data pipelines, and how to turn raw data into decisions).
-- ⚙️ I enjoy the process of turning messy real-world problems into clean, working code.
-- ⚡ Fun fact: <!-- coloque aqui sua curiosidade tech, ex: "Meu primeiro script foi pra automatizar uma tarefa chata da faculdade — e aí eu não parei mais." -->
+</div>
 
 <br>
 
-## 🛠️ Tech Stack & Tools
+I'm a Systems Analysis student at IFSP and a Software Development Intern at Embraer, working with Data Science.
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Jupyter](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+I love programming. I got into it to solve real problems with technology, and I never stopped. These days I build data pipelines, automation tools and dashboards, and I'm preparing for a master's in Explainable AI applied to plasma/fusion and space weather.
 
-<br>
+Outside of code: anime, manga, games and open source.
 
-## 📞 Connect with me
+## Stack
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/pedro-de-moraes-machado-4837a72a2/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:pedrommachado256@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</p>
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=4DABCF)
+![Jupyter](https://img.shields.io/badge/Jupyter-0d1117?style=for-the-badge&logo=jupyter&logoColor=F37626)
+![BigQuery](https://img.shields.io/badge/BigQuery-0d1117?style=for-the-badge&logo=googlebigquery&logoColor=669DF6)
+![Power BI](https://img.shields.io/badge/Power_BI-0d1117?style=for-the-badge&logo=powerbi&logoColor=F2C811)
+![Power Apps](https://img.shields.io/badge/Power_Apps-0d1117?style=for-the-badge&logo=powerapps&logoColor=C57AC8)
+![Django](https://img.shields.io/badge/Django-0d1117?style=for-the-badge&logo=django&logoColor=44B78B)
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05033)
+![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=FCC624)
 
-<br>
+## Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/pedro-de-moraes-machado-4837a72a2/)
+[![Gmail](https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=D14836)](mailto:pedrommachado256@gmail.com)
+[![ORCID](https://img.shields.io/badge/ORCID-0d1117?style=for-the-badge&logo=orcid&logoColor=A6CE39)](https://orcid.org/0009-0002-9702-3163)
+[![Lattes](https://img.shields.io/badge/Lattes-0d1117?style=for-the-badge&logoColor=white)](https://lattes.cnpq.br/0918817368849482)
