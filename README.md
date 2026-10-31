@@ -33,3 +33,12 @@ Outside of code: anime, manga, games and open source.
 [![Gmail](https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=D14836)](mailto:pedrommachado256@gmail.com)
 [![ORCID](https://img.shields.io/badge/ORCID-0d1117?style=for-the-badge&logo=orcid&logoColor=A6CE39)](https://orcid.org/0009-0002-9702-3163)
 [![Lattes](https://img.shields.io/badge/Lattes-0d1117?style=for-the-badge&logoColor=white)](https://lattes.cnpq.br/0918817368849482)
+
+## Languages
+
+<div align="center">
+
+<img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most used languages" />
+<img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Repos per language" />
+
+</div>
